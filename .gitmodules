@@ -1,0 +1,6 @@
+[submodule "lib/SimpleCLI"]
+	path = lib/SimpleCLI
+	url = git@github.com:SpacehuhnTech/SimpleCLI.git
+[submodule "lib/AccelStepper"]
+	path = lib/AccelStepper
+	url = git@github.com:waspinator/AccelStepper.git
